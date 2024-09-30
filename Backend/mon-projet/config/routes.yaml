@@ -1,0 +1,24 @@
+tote_bags_list:
+    path: /tote-bags
+    controller: App\Controller\ToteBagController::list
+    methods: GET
+
+tote_bag_show:
+    path: /tote-bag/{id}
+    controller: App\Controller\ToteBagController::show
+    methods: GET
+
+tote_bag_create:
+    path: /tote-bag/create
+    controller: App\Controller\ToteBagController::create
+    methods: POST
+
+admin_tote_bags_index:
+    path: /admin/tote-bags/
+    controller: App\Controller\AdminToteBagController::index
+    methods: GET
+
+admin_tote_bags_create:
+    path: /admin/tote-bags/create
+    controller: App\Controller\AdminToteBagController::create
+    methods: POST
