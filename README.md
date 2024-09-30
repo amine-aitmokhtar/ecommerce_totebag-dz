@@ -8,14 +8,6 @@ Voici une capture d'écran de la vitrine de notre site e-commerce :
 
 ![Vitrine de la page e-commerce](totebag.png)
 
-## Fonctionnalités
-
-- Personnalisation des tote bags (choix de motifs, couleurs, etc.)
-- Authentification utilisateur (inscription/connexion)
-- Gestion du panier et des commandes
-- Paiement en ligne sécurisé
-- Tableau de bord pour les administrateurs (gestion des produits, des commandes)
-
 ## Technologies utilisées
 
 ### Frontend
