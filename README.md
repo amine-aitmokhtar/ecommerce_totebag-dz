@@ -6,7 +6,7 @@ Ce projet est une plateforme de e-commerce pour la vente de tote bags personnali
 
 Voici une capture d'écran de la vitrine de notre site e-commerce :
 
-![Vitrine du site e-commerce](https://github.com/ton-utilisateur/nom-du-repo/raw/main/images/totebag.png)
+![Vitrine de la page e-commerce](totebag.png)
 
 ## Fonctionnalités
 
